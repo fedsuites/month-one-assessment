@@ -21,7 +21,7 @@ terraform-assessment/
 ## Deployment Steps
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/month-one-assessment
+git clone https://github.com/fedsuites/month-one-assessment
 cd month-one-assessment
 
 ### 2. Configure your variables
